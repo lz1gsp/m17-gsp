@@ -5,9 +5,9 @@ repo: m17-gsp # Your GitHub repository name
 # Add your sites here
 sites:
   - name: M17-GSP
-    url: https://xlxsof.ddns.net:17001
+    url: https://xlxsof.ddns.net
   - name: M17_PLC
-    url: https://xlx800.ddns.net:17001
+    url: https://xlx800.ddns.net
   - name: HBLink LZ1GSP
     url: http://94.237.100.180
   - name: HBLink LZ1PMG
