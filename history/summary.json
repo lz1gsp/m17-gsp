@@ -12,7 +12,7 @@
     "uptimeYear": "99.28%",
     "time": 755,
     "timeDay": 974,
-    "timeWeek": 1005,
+    "timeWeek": 1003,
     "timeMonth": 1063,
     "timeYear": 755,
     "dailyMinutesDown": {
@@ -55,10 +55,10 @@
     "url": "http://94.237.100.180",
     "icon": "https://favicons.githubusercontent.com/94.237.100.180",
     "slug": "hb-link-lz-1-gsp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
@@ -66,7 +66,9 @@
     "timeWeek": 261,
     "timeMonth": 249,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-24": 1
+    }
   },
   {
     "name": "HBLink LZ1PMG",
@@ -93,9 +95,9 @@
     "url": "http://94.237.100.180:8080",
     "icon": "https://favicons.githubusercontent.com/94.237.100.180",
     "slug": "hbl-gsp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,7 +106,9 @@
     "timeWeek": 860,
     "timeMonth": 845,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-24": 0
+    }
   },
   {
     "name": "M17-GSP",
@@ -112,18 +116,18 @@
     "icon": "https://favicons.githubusercontent.com/xlxsof.ddns.net",
     "slug": "m17-gsp",
     "status": "down",
-    "uptime": "0.38%",
+    "uptime": "0.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.38%",
+    "uptimeYear": "0.37%",
     "time": 409,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2021-04-24": 42,
+      "2021-04-24": 1002,
       "2021-04-23": 1440,
       "2021-04-22": 1440,
       "2021-04-21": 1440,
